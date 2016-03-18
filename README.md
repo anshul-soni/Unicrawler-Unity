@@ -18,4 +18,4 @@ Open Unity and select open project.
 
 Select the folder as the project in which you download the project files.
 
-If you need any help or have any doubts you can contact me.
+If you need any help or have any doubts feel free to contact me.
